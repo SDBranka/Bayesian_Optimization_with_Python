@@ -1,0 +1,12 @@
+Bayesian Optimization with Python
+https://towardsdatascience.com/bayesian-optimization-with-python-85c66df711ec
+
+Pattern Recognition and Machine Learning PDf
+https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf
+
+BayesianOptimization Repository
+https://github.com/fmfn/BayesianOptimization
+
+scikit-optimize documentation
+https://scikit-optimize.github.io/stable/
+
